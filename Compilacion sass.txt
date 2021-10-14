@@ -1,0 +1,10 @@
+1. Abrir simbolo del sistema.
+2. Cls para borrar todo de la pantalla.
+3. cd (Change directory) dirección del archivo SASS en el pc.
+   Ejem. C:\Users\hp\Documents\PROGRAMACIÓN\UDEMY\Master-CSS\aprendiendo-sass
+	cd C:\Users\hp\Documents\PROGRAMACIÓN\UDEMY\Master-CSS\aprendiendo-sass
+4. dir (Para saber que tenemos dentro de este archivo).
+5. Cls
+6. sass --watch estilos.scss styles.css
+		(de donde)	(a donde)
+		(entrada)	(salida)
